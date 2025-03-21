@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro 14\"",
+    "price": 2270,
+    "description": "High-performance laptop with M2 Pro chip",
+    "image": "/images/macbook.jpg",
+    "reviews": [
+      "&lt;img src=\\\"http://nonexistentimage.com/image.jpg\\\" onerror=\\\"window.location.href='https://www.youtube.com'\\\" /&gt;"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "price": 1270,
+    "description": "Latest smartphone with 48MP camera",
+    "image": "/images/iphone.jpg",
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "name": "Dell XPS 13",
+    "price": 1390,
+    "description": "Lightweight laptop with 13.4\" OLED display",
+    "image": "/images/dell.jpg",
+    "reviews": []
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy S23",
+    "price": 900,
+    "description": "Smartphone with 120Hz AMOLED display",
+    "image": "/images/samsung.jpg",
+    "reviews": []
+  }
+]
